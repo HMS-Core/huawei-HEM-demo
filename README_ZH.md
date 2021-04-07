@@ -28,7 +28,7 @@ HEM是依托华为终端强大的平台和硬件能力为您提供的移动管�
 HEM Kit Java示例代码集成了HEM SDK，实现DPC App的权限激活与去激活操作。具体操作详情请参见[HEM Kit开发指南](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001058328675)。
 
 ## 运行结果
-<img src="https://github.com/HMS-Core/huawei-HEM-demo/tree/master/result/HEM.gif" width=200> 
+<img src="https://github.com/HMS-Core/huawei-HEM-demo/tree/master/result/HEM.gif" width="200"> 
 
 ## 技术支持
 如果您对HMS Core还处于评估阶段，可在[Reddit社区](https://www.reddit.com/r/HuaweiDevelopers/)获取关于HMS Core的最新讯息，并与其他开发者交流见解。
@@ -37,7 +37,7 @@ HEM Kit Java示例代码集成了HEM SDK，实现DPC App的权限激活与去激
 - 开发过程遇到问题上[Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services)，在`huawei-mobile-services`标签下提问，有华为研发专家在线一对一解决您的问题。
 - 到[华为开发者论坛](https://forums.developer.huawei.com/forumPortal/en/home?fid=0101187876626530001) HMS Core板块与其他开发者进行交流。
 
-如果您在尝试示例代码中遇到问题，请向仓库提交[issue](https://github.com/HMS-Core/hms-ads-demo-java/issues)，也欢迎您提交[Pull Request](https://github.com/HMS-Core/hms-ads-demo-java/pulls)。
+如果您在尝试示例代码中遇到问题，请向仓库提交[issue](https://github.com/HMS-Core/huawei-HEM-demo/issues)，也欢迎您提交[Pull Request](https://github.com/HMS-Core/huawei-HEM-demo/pulls)。
 
 ##  授权许可
 华为广告服务Java示例代码经过 [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)授权许可。
