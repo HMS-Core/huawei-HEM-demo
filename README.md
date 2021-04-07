@@ -28,7 +28,7 @@ Software
 This sample code demonstrates how to integrate the HEM SDK to activate or deactivate the DPC app license. For details, please refer to [HEM Kit Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001058328675).
 
 ## Result
-<img src="https://github.com/HMS-Core/hms-ads-demo-java/blob/master/result/Banner.gif" width=200>
+<img src="https://github.com/HMS-Core/huawei-HEM-demo/tree/master/result/HEM.gif" width=200>
 
 ## Question or issues
 If you want to evaluate more about HMS Core,
