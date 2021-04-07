@@ -1,5 +1,5 @@
 # HUAWEI HEM Kit Java Sample Code
-English | [中文](https://github.com/HMS-Core/huawei-HEM-demo/README_ZH.md)
+English | [中文](https://github.com/HMS-Core/huawei-HEM-demo/blob/master/README_ZH.md)
 ## Table of Contents
 
  * [Introduction](#introduction)
