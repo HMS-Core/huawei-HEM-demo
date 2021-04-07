@@ -28,7 +28,7 @@ HEM是依托华为终端强大的平台和硬件能力为您提供的移动管�
 HEM Kit Java示例代码集成了HEM SDK，实现DPC App的权限激活与去激活操作。具体操作详情请参见[HEM Kit开发指南](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001058328675)。
 
 ## 运行结果
-<img src="https://github.com/HMS-Core/huawei-HEM-demo/result/HEM.gif" width=200> 
+<img src="https://github.com/HMS-Core/huawei-HEM-demo/tree/master/result/HEM.gif" width=200> 
 
 ## 技术支持
 如果您对HMS Core还处于评估阶段，可在[Reddit社区](https://www.reddit.com/r/HuaweiDevelopers/)获取关于HMS Core的最新讯息，并与其他开发者交流见解。
